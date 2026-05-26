@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "order": "Pedido",
+    "about": "Nosotros"
+  },
+  "home": {
+    "hero_title": "Pizza Fresca, Entrega Rápida",
+    "hero_subtitle": "Pizzas artesanales hechas con amor, entregadas en tu puerta en 30 minutos o menos.",
+    "cta": "Pedir Ahora",
+    "features_title": "¿Por Qué Elegirnos?",
+    "feature_fresh": "Ingredientes Frescos",
+    "feature_fresh_desc": "Usamos vegetales cultivados localmente y carnes premium todos los días.",
+    "feature_fast": "Súper Rápido",
+    "feature_fast_desc": "Tiempo promedio de entrega de 25 minutos. Pizza caliente, garantizado.",
+    "feature_custom": "Totalmente Personalizable",
+    "feature_custom_desc": "Crea tu pizza perfecta con nuestra amplia selección de ingredientes."
+  },
+  "menu": {
+    "title": "Nuestro Menú",
+    "subtitle": "Elige entre nuestra selección de pizzas artesanales",
+    "add_to_order": "Agregar al Pedido",
+    "currency": "$",
+    "pizzas": {
+      "margherita": {
+        "name": "Margherita",
+        "description": "Mozzarella fresca, salsa de tomate, albahaca"
+      },
+      "pepperoni": {
+        "name": "Pepperoni",
+        "description": "Pepperoni clásico, mozzarella, salsa de tomate"
+      },
+      "hawaiian": {
+        "name": "Hawaiana",
+        "description": "Jamón, piña, mozzarella, salsa de tomate"
+      },
+      "veggie": {
+        "name": "Vegetariana Suprema",
+        "description": "Pimientos, champiñones, cebolla, aceitunas, salsa de tomate"
+      },
+      "bbq_chicken": {
+        "name": "Pollo BBQ",
+        "description": "Pollo a la parrilla, salsa BBQ, cebolla morada, cilantro"
+      },
+      "four_cheese": {
+        "name": "Cuatro Quesos",
+        "description": "Mozzarella, gorgonzola, parmesano, fontina"
+      }
+    }
+  },
+  "order": {
+    "title": "Realiza Tu Pedido",
+    "your_order": "Tu Pedido",
+    "empty_cart": "Tu carrito está vacío. ¡Visita el menú para agregar pizzas!",
+    "name": "Nombre Completo",
+    "address": "Dirección de Entrega",
+    "phone": "Número de Teléfono",
+    "notes": "Instrucciones Especiales",
+    "notes_placeholder": "¿Alguna alergia o solicitud especial?",
+    "total": "Total",
+    "place_order": "Realizar Pedido",
+    "success_title": "¡Pedido Realizado!",
+    "success_message": "Tu pizza se está preparando y llegará en aproximadamente 30 minutos.",
+    "remove": "Eliminar"
+  },
+  "about": {
+    "title": "Sobre PizzaExpress",
+    "story_title": "Nuestra Historia",
+    "story_text": "Fundada en 2020, PizzaExpress comenzó como una pequeña cocina familiar con un gran sueño: llevar pizza auténtica y artesanal a cada puerta. Hoy, servimos a miles de clientes felices cada semana.",
+    "values_title": "Nuestros Valores",
+    "value_quality": "Calidad Primero",
+    "value_quality_desc": "Nunca comprometemos los ingredientes. Cada pizza está hecha con componentes premium y frescos.",
+    "value_community": "Comunidad",
+    "value_community_desc": "Apoyamos a agricultores y proveedores locales, manteniendo fuerte nuestra comunidad.",
+    "value_sustainability": "Sostenibilidad",
+    "value_sustainability_desc": "Empaques ecológicos y opciones de entrega con huella de carbono neutral.",
+    "stats_title": "En Números",
+    "stat_pizzas": "Pizzas Entregadas",
+    "stat_customers": "Clientes Felices",
+    "stat_rating": "Calificación Promedio"
+  },
+  "footer": {
+    "tagline": "Entregando felicidad, una rebanada a la vez"
+  }
+}

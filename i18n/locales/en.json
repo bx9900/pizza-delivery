@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "order": "Order",
+    "about": "About"
+  },
+  "home": {
+    "hero_title": "Fresh Pizza, Delivered Fast",
+    "hero_subtitle": "Handcrafted pizzas made with love, delivered to your door in 30 minutes or less.",
+    "cta": "Order Now",
+    "features_title": "Why Choose Us?",
+    "feature_fresh": "Fresh Ingredients",
+    "feature_fresh_desc": "We source locally grown vegetables and premium meats daily.",
+    "feature_fast": "Lightning Fast",
+    "feature_fast_desc": "Average delivery time of 25 minutes. Hot pizza, guaranteed.",
+    "feature_custom": "Fully Customizable",
+    "feature_custom_desc": "Build your perfect pizza with our wide selection of toppings."
+  },
+  "menu": {
+    "title": "Our Menu",
+    "subtitle": "Choose from our selection of handcrafted pizzas",
+    "add_to_order": "Add to Order",
+    "currency": "$",
+    "pizzas": {
+      "margherita": {
+        "name": "Margherita",
+        "description": "Fresh mozzarella, tomato sauce, basil"
+      },
+      "pepperoni": {
+        "name": "Pepperoni",
+        "description": "Classic pepperoni, mozzarella, tomato sauce"
+      },
+      "hawaiian": {
+        "name": "Hawaiian",
+        "description": "Ham, pineapple, mozzarella, tomato sauce"
+      },
+      "veggie": {
+        "name": "Veggie Supreme",
+        "description": "Bell peppers, mushrooms, onions, olives, tomato sauce"
+      },
+      "bbq_chicken": {
+        "name": "BBQ Chicken",
+        "description": "Grilled chicken, BBQ sauce, red onion, cilantro"
+      },
+      "four_cheese": {
+        "name": "Four Cheese",
+        "description": "Mozzarella, gorgonzola, parmesan, fontina"
+      }
+    }
+  },
+  "order": {
+    "title": "Place Your Order",
+    "your_order": "Your Order",
+    "empty_cart": "Your cart is empty. Visit the menu to add pizzas!",
+    "name": "Full Name",
+    "address": "Delivery Address",
+    "phone": "Phone Number",
+    "notes": "Special Instructions",
+    "notes_placeholder": "Any allergies or special requests?",
+    "total": "Total",
+    "place_order": "Place Order",
+    "success_title": "Order Placed!",
+    "success_message": "Your pizza is being prepared and will arrive in approximately 30 minutes.",
+    "remove": "Remove"
+  },
+  "about": {
+    "title": "About PizzaExpress",
+    "story_title": "Our Story",
+    "story_text": "Founded in 2020, PizzaExpress started as a small family kitchen with a big dream: to bring authentic, handcrafted pizza to every doorstep. Today, we serve thousands of happy customers every week.",
+    "values_title": "Our Values",
+    "value_quality": "Quality First",
+    "value_quality_desc": "We never compromise on ingredients. Every pizza is made with premium, fresh components.",
+    "value_community": "Community",
+    "value_community_desc": "We support local farmers and suppliers, keeping our community strong.",
+    "value_sustainability": "Sustainability",
+    "value_sustainability_desc": "Eco-friendly packaging and carbon-neutral delivery options.",
+    "stats_title": "By the Numbers",
+    "stat_pizzas": "Pizzas Delivered",
+    "stat_customers": "Happy Customers",
+    "stat_rating": "Average Rating"
+  },
+  "footer": {
+    "tagline": "Delivering happiness, one slice at a time"
+  }
+}
