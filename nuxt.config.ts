@@ -1,3 +1,7 @@
+import { createRequire } from 'node:module'
+
+const require = createRequire(import.meta.url)
+
 export default defineNuxtConfig({
   compatibilityDate: '2025-05-13',
   devtools: { enabled: true },
@@ -19,7 +23,8 @@ export default defineNuxtConfig({
     // SSG: pre-render the about page at build time
     '/about': { prerender: true },
   },
+
   nitro: {
-    preset: '/Users/brandoxu/Documents/OmegaCLI/src/OmegaCLI/packages/nuxt/dist/preset.js'
-  }
+    preset: require.resolve('@omega/astro-adapter'),
+  },
 })
