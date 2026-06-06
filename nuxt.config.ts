@@ -25,6 +25,6 @@ export default defineNuxtConfig({
   },
 
   nitro: {
-    preset: require.resolve('@omega/astro-adapter'),
+    preset: require.resolve('@omega/nuxt-adapter'),
   },
 })
